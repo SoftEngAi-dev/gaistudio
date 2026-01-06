@@ -1,0 +1,5 @@
+{
+  "name": "AutoDev Agent Orchestrator",
+  "description": "An autonomous software development interface that simulates the execution of the Master Prompt to generate software, content, and pipelines.",
+  "requestFramePermissions": []
+}
